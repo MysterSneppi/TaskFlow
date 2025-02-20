@@ -11,6 +11,7 @@ Guards, Pipes, Middleware, Interceptors.
 WebSockets (уведомления о задачах).
 GraphQL (гибкий API для задач).
 Микросервисная архитектура (RabbitMQ).
+
 ✅ Frontend (Next.js, но необязательно)
 
 REST API + GraphQL
