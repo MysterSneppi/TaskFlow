@@ -12,7 +12,7 @@ WebSockets (уведомления о задачах).
 GraphQL (гибкий API для задач).
 Микросервисная архитектура (RabbitMQ).
 
-✅ Frontend (Next.js, но необязательно)
+✅ Frontend (Next.js)
 
 REST API + GraphQL
 WebSockets для обновлений в реальном времени
